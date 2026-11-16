@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-session-lifecycle"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS session-lifecycle component - user_management"
+
+[lib]
+name = "session_lifecycle"
+path = "src/lib.rs"
