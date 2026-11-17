@@ -3,7 +3,7 @@ name = "SigmaOS-session-lifecycle"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "session-lifecycle component"
+description = "session lifecycle"
 upstream = []
 
 [contract]
